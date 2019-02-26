@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoServiceNotification</string>
+    <string name="string_name_artis">Trịnh Tuấn Vỹ</string>
+    <string name="string_name_song">Em vẫn chưa về</string>
+</resources>
